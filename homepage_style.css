@@ -19,3 +19,10 @@
     font-family: -apple-system, BlinkMacSystemFont, "Neue Haas Grotesk Text Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-align: center;
 }
+
+body {
+    background-image: url('images/sept16.jpeg'); /* Replace 'background.jpg' with the path to your image */
+    background-repeat: no-repeat;
+    background-size: cover; /* Options: contain, cover, auto, etc. */
+    background-position: center center; /* Options: left top, center center, right bottom, etc. */
+}
