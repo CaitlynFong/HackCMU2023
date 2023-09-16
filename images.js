@@ -1,4 +1,4 @@
-$(document).ready(function(){
+(document).ready(function(){
     var images=['images/aug15.jpg',
                 'images/aug28.jpg',
                 'images/aug29.jpg',
