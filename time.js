@@ -16,7 +16,7 @@ function updateTime(){
   
   var greeting = document.getElementById('greetingHeading');
   
-  if (today.getHours() > 4 && today.getHours() < 12) {
+  if (today.getHours() >= 0 && today.getHours() < 12) {
     greeting.innerHTML = greet1;
   }
   if(today.getHours() >= 12 && today.getHours() < 16){
