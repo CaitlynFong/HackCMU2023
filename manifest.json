@@ -1,0 +1,9 @@
+{
+    "name": "Astronomy Chrome Extension",
+    "version": "1.0",
+    "description": "Space-themed productivity tool",
+    "manifest_version": 3,
+    "chrome_url_overrides": {
+        "newtab": "mainpage.html"
+    }
+}
